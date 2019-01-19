@@ -2,7 +2,7 @@
 
 Detta är en enkel filmsök-app skriven i java, där man i en dialogruta anger någon del av titeln och i en annan dialogruta får ut resultatet. Baserat på inmatningen ställs en fråga till TMDbs API och svaret i JSON omvandlas i appen till javaobjekt som sedan skrivs ut.
 
-Detta är en lab-uppgift i kursen Backendutveckling och systemintegration på Lernias YH-utbildning till Systemintegratör. Detta projekt avser uppgift 1 nedan. 
+Detta är en lab-uppgift i kursen Backendutveckling och systemintegration på Lernias YH-utbildning till Systemintegratör. Detta projekt avser uppgift 2 nedan. 
 Labben är individuell och täcker följande färdigheter och kompetens: 
 • Utveckla backend‐system med moderna teknologier som är vanligt förekommande inom branschen (Fä1) 
 • Arbeta med databaser (Fä3) • Implementera befintliga interna och externa API:er (Fä6) 
