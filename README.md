@@ -1,4 +1,4 @@
-# TMDb_Lab1G
+# TMDb_Lab_1_2
 
 Detta är en enkel filmsök-app skriven i java, där man i en dialogruta anger någon del av titeln och i en annan dialogruta får ut resultatet. Baserat på inmatningen ställs en fråga till TMDbs API och svaret i JSON omvandlas i appen till javaobjekt som sedan skrivs ut.
 
